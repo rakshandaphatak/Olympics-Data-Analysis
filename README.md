@@ -5,6 +5,10 @@
 
 ---
 
+## 🚀 Open in Google Colab
+
+[Click here to Open Notebook](https://colab.research.google.com/github/rakshandaphatak/Olympics-Data-Analysis/blob/main/Olympics%20Data%20Analysis.ipynb#scrollTo=tORPRvmudUZx)
+
 ## 📊 Key Analysis Performed
 - Data Cleaning & Preprocessing
 - Country-wise Medal Analysis
